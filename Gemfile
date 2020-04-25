@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 gem 'rspec'
-gem 'sinatra', '~> 1.4.0'
+gem 'sinatra', '~> 1.4.4'
 gem 'hashi'
 gem 'oktokit', '~> 2.0'
 group :development do
