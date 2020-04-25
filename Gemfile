@@ -3,6 +3,5 @@ gem 'rspec'
 gem 'sinatra', '1.4.4'
 gem 'hashie'
 gem 'oktokit', '~> 2.0'
-gem "pry", :group => [:development]
-end
+gem "pry", group: :development
 end
