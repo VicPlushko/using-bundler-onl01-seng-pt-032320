@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 gem "rspec"
 gem 'sinatra', '1.4.5'
-gem "hashi"
+gem "hashi", ""
 gem 'oktokit', '~> 2.0'
 
 group :development do
